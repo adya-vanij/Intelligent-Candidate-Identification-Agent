@@ -6,7 +6,7 @@ Recruitment firms struggle with fragmented candidate data spread across multiple
 <h1>Solution Statement</h1>
 An intelligent AI agent that integrates with multiple recruitment platforms and candidate databases, processes natural language queries, and provides comprehensive candidate recommendations by analyzing and synthesizing information from various data sources while making sophisticated inferences about candidate capabilities.
 <h1>Process Flow</h1>
-![image](https://github.com/user-attachments/assets/2c85bbbe-1ccf-4657-bce0-59d17388e6f0)
+![image](https://github.com/user-attachments/assets/da01af46-22a9-4ec4-bb45-c079ed86e02b)
 
 <h1>POC Deliverables</h1>
 A fully functional candidate search and recommendation system that demonstrates seamless integration with multiple recruitment platforms and data sources. The system will feature an intuitive interface for complex query input and provide consolidated candidate profiles with insights drawn from multiple sources. It will showcase the ability to handle sophisticated search criteria and provide evidence-based recommendations supported by data from various platforms.
